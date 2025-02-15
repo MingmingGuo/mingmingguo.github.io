@@ -23,7 +23,7 @@ I'm currently a Ph.D. student majoring in Energy and Mechanical Engineering unde
 
 
 
-My research interest includes high-throughput computational screening approaches and machine learning to accelerate the materials discovery. And I will pursue the combination of theory and experiment to solve scientific problems. I have published more than 7 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=zvkzYukAAAAJ'>google scholar citations <strong><span id='total_cit'>328</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=zvkzYukAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes high-throughput computational screening approaches and machine learning to accelerate the materials discovery. And I will pursue the combination of theory and experiment to solve scientific problems. I have published more than 7 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=zvkzYukAAAAJ'>google scholar citations <strong><span id='total_cit'>328</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
