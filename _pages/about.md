@@ -32,7 +32,7 @@ My research interest includes high-throughput computational screening approaches
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/1-CoDOSA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Theoretical investigation of HER/OER/ORR catalytic activity of single atom-decorated graphyne by DFT and comparative DOS analyses](https://www.sciencedirect.com/science/article/abs/pii/S0169433222007966)
