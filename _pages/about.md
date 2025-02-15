@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Mingming Guo's Personal Academic Website.
 
-I'm a  Research Assistant under the advisor of <a href="https://scholar.google.com/citations?user=Dd9AE8sAAAAJ">Prof. Laurent Chaput</a> at University of Lorraine. <br/> 
+I'm currently a Ph.D. student majoring in Energy and Mechanical Engineering under the advisor of <a href="https://scholar.google.com/citations?user=Dd9AE8sAAAAJ">Prof. Laurent Chaput</a> at University of Lorraine. <br/> 
 
 
 
