@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingming Guo (郭明明)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "My research interests are Computational Materials Science , Molecular Dynamics Simulation(MD), DFT and Machine Learning in Materials Science. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "France"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=zvkzYukAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=zvkzYukAAAAJ"
   email            : "mingmingguo1314@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
