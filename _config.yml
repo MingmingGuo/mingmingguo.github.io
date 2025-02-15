@@ -161,3 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+#map
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=F1vL7ccfaglTpcZD3hYK02nlqbiv-naSldbcvDl06Ck&cl=ffffff&w=a"></script>
