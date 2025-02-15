@@ -44,7 +44,18 @@ My research interest includes high-throughput computational screening approaches
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Surface Science, 2022</div><img src='images/1-CoDOSA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Development of Eu-based metal-organic frameworks (MOFs) for luminescence sensing and entrapping of arsenate ion](https://www.sciencedirect.com/science/article/abs/pii/S0022231321002180)
+
+Siyuan Liu, Ming Liu, **Mingming Guo**, Zicheng Wang, Xuefei Wang, Wei Cui, Zhiyuan Tian
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Our screening process showed that Co@GY and Ni@3B-GY would be highly promising multifunctional electrocatalysts for HER/OER/ORR. Then, we built quantitative structure–property relationship (QSPR) between electronic density of states (DOS) structure and catalytic performance using comparative DOS analysis (CoDOSA). The present results further support the development and application of d-band center theory. Our work identifies promising co-decorated GY for HER/OER/ORR and provides quantitative information on their DOS.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
