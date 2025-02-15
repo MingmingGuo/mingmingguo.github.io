@@ -39,7 +39,7 @@ My research interest includes high-throughput computational screening approaches
 
 **Mingming Guo**, , MingJuan Ji, Wei Cui
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zvkzYukAAAAJ&citation_for_view=zvkzYukAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='zvkzYukAAAAJ:Y0pCki6q_DkC'></span></strong>
 - Our screening process showed that Co@GY and Ni@3B-GY would be highly promising multifunctional electrocatalysts for HER/OER/ORR. Then, we built quantitative structure–property relationship (QSPR) between electronic density of states (DOS) structure and catalytic performance using comparative DOS analysis (CoDOSA). The present results further support the development and application of d-band center theory. Our work identifies promising co-decorated GY for HER/OER/ORR and provides quantitative information on their DOS.
 </div>
 </div>
