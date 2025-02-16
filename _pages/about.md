@@ -29,9 +29,11 @@ My research interest includes high-throughput computational screening approaches
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉🎉 I join the Laboratory of Energy and Theoretical and Applied Mechanics (LEMTA) in Laurent Chaput's group.
 - *2022.07*: &nbsp;🎉🎉 <span> Have successfully completed " <a style="color:bule" href="https://www.coursera.org/account/accomplishments/verify/CHVQDWDTYWHS"> Writing in Science</a> " , an online non-credit course authorized by Stanford University and offered through Coursera </span>. 
-- *2022.05*: &nbsp;🎉🎉 Invited to contribute a research article to the international journal “Crystals” in the topic "First-Principles Simulation—NanoTheory".
+- *2022.05*: &nbsp;🎉🎉 I am invited to contribute a research article to the international journal “Crystals” in the topic "First-Principles Simulation—NanoTheory".
 - *2022.02*: &nbsp;🎉🎉 I attended "18th Advanced School on Parallel Computing" by Cineca HPC Department-Education Division.
 - *2022.01*: &nbsp;🎉🎉 I attended the course "Machine Learning for Heliophysics" by Cineca HPC Department - Education Division (A maximum number of 25 students will be accepted).
+- *2022.01*: &nbsp;🎉🎉 I attended 2022 Workshop 'AI on HPC' by EuroCC Italy-CINECA.
+- 
 
 # 📝 Publications 
 
@@ -72,8 +74,9 @@ Siyuan Liu, Ming Liu, **Mingming Guo**, Zicheng Wang, Xuefei Wang, Wei Cui, Zhiy
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.11*, Academic Annual Conference, University of Chinese Academy of Sciences. Oral presentation: Modified two-dimensional carbon materials by virtual screening and quantitative structure-activity relationship study.
+- *2021.03*,  <a href="=https://doi.org/10.1021/scimeetings.1c01332"> ACS Fall National Meeting </a>. Poster presentation: “Theoretical investigation of metal-nonmetal co-decorated graphyne for electrocatalytic water splitting by DFT study and CoDOSA model.”
+- *2021.03*, Annual Conference of the Chinese Chemical Society Conference. Oral presentation: “Design of highly active eletrocatalysts for oxygen evolution reaction based on transition-metal and nonmetal decorated graphyne using machine learning.” 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
