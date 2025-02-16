@@ -27,7 +27,7 @@ My research interest includes high-throughput computational screening approaches
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.07*: &nbsp;🎉🎉 <span style="font-weight:bold"> Have successfully completed " <a style="color:bule" href="https://www.coursera.org/account/accomplishments/verify/CHVQDWDTYWHS"> Writing in Science</a> " , an online non-credit course authorized by Stanford University and offered through Coursera </span>. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
