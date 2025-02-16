@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Mingming Guo's Personal Academic Website.
 
-I'm currently a Ph.D. student majoring in Energy and Mechanical Engineering under the advisor of <a href="https://scholar.google.com/citations?user=Dd9AE8sAAAAJ">Prof. Laurent Chaput</a> at University of Lorraine. <br/> 
+I'm currently a Ph.D. student majoring in Energy and Mechanical Engineering under the advisor of <a href="https://scholar.google.com/citations?user=Dd9AE8sAAAAJ">Prof. Laurent Chaput</a> and <a href="https://scholar.google.com/citations?user=6TEjRUwAAAAJ">Fabien Pascale</a> at University of Lorraine, , <a href="https://lemta.univ-lorraine.fr/">CNRS-LEMTA</a>.
 
 
 
@@ -27,8 +27,11 @@ My research interest includes high-throughput computational screening approaches
 
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 <span style="font-weight:bold"> Have successfully completed " <a style="color:bule" href="https://www.coursera.org/account/accomplishments/verify/CHVQDWDTYWHS"> Writing in Science</a> " , an online non-credit course authorized by Stanford University and offered through Coursera </span>. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉🎉 I join the Laboratory of Energy and Theoretical and Applied Mechanics (LEMTA) in Laurent Chaput's group.
+- *2022.07*: &nbsp;🎉🎉 <span> Have successfully completed " <a style="color:bule" href="https://www.coursera.org/account/accomplishments/verify/CHVQDWDTYWHS"> Writing in Science</a> " , an online non-credit course authorized by Stanford University and offered through Coursera </span>. 
+- *2022.05*: &nbsp;🎉🎉 Invited to contribute a research article to the international journal “Crystals” in the topic "First-Principles Simulation—NanoTheory".
+- *2022.02*: &nbsp;🎉🎉 I attended "18th Advanced School on Parallel Computing" by Cineca HPC Department-Education Division.
+- *2022.01*: &nbsp;🎉🎉 I attended the course "Machine Learning for Heliophysics" by Cineca HPC Department - Education Division (A maximum number of 25 students will be accepted).
 
 # 📝 Publications 
 
