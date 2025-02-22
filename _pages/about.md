@@ -70,6 +70,8 @@ Siyuan Liu, Ming Liu, **Mingming Guo**, Zicheng Wang, Xuefei Wang, Wei Cui, Zhiy
 </div>
 
 - [Development of Eu-based metal-organic frameworks (MOFs) for luminescence sensing and entrapping of arsenate ion](https://doi.org/10.1016/j.jlumin.2021.118102), Siyuan Liu, Ming Liu, **Mingming Guo**, , Zicheng Wang, Xuefei Wang, Wei Cui, Zhiyuan Tian. **Journal of Luminescence 2021**
+- [Synthesis of Diethyl Carbonate in Liquid Phase Oxidative Carbonylation over Activated Carbon-Supported Chloride-Free Cu-Based Catalysts](https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.0c00528), Hongbing Wang, Yao Xiang, **Mingming Guo**, Jiana Su, Gongying Wang, Wei Cui, and Zhiyong Deng
+- - [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, Jin Xu, Hao Sun, Sheng Zhao, Tao Qin, **INTERSPEECH 2020** \| [**Project**](https://speechresearch.github.io/multispeech/)
 
 
 # 🎖 Honors and Awards
