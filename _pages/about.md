@@ -69,6 +69,8 @@ Siyuan Liu, Ming Liu, **Mingming Guo**, Zicheng Wang, Xuefei Wang, Wei Cui, Zhiy
 </div>
 </div>
 
+- [Development of Eu-based metal-organic frameworks (MOFs) for luminescence sensing and entrapping of arsenate ion](https://doi.org/10.1016/j.jlumin.2021.118102), Siyuan Liu, Ming Liu, **Mingming Guo**, , Zicheng Wang, Xuefei Wang, Wei Cui, Zhiyuan Tian. **Journal of Luminescence 2021**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
