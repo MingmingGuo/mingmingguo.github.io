@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Mingming Guo's Personal Academic Website.
 
-I'm currently a Ph.D. student majoring in Energy and Mechanical Engineering under the advisor of <a href="https://scholar.google.com/citations?user=Dd9AE8sAAAAJ">Prof. Laurent Chaput</a> and <a href="https://scholar.google.com/citations?user=6TEjRUwAAAAJ">Fabien Pascale</a> at University of Lorraine, , <a href="https://lemta.univ-lorraine.fr/">CNRS-LEMTA</a>.
+I'm currently a Ph.D. student majoring in Energy and Mechanical Engineering under the advisor of <a href="https://scholar.google.com/citations?user=Dd9AE8sAAAAJ">Prof. Laurent Chaput</a> and <a href="https://scholar.google.com/citations?user=6TEjRUwAAAAJ">Fabien Pascale</a> at University of Lorraine,<a href="https://lemta.univ-lorraine.fr/">CNRS-LEMTA</a>.
 
 
 
@@ -67,11 +67,14 @@ Siyuan Liu, Ming Liu, **Mingming Guo**, Zicheng Wang, Xuefei Wang, Wei Cui, Zhiy
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.09 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2024.09 - 2022.04 (now)*, M.S. in Chemical Engineering, University of Chinese Academy of Sciences (UCAS). 
- \n Supervisor: Prof. Wei Cui and Prof. Mingjuan Ji 
+- *2024.10 - now*, Ph.D. student, University of Lorraine, CNRS-LEMTA.
+  
+- *2022.06 - 2024.06*, Research Assistant, University of Chinese Academy of Sciences (UCAS).
+  
+- *2019.09 - 2022.06*, M.S. in Chemical Engineering, University of Chinese Academy of Sciences (UCAS). 
+  Supervisor: Prof. Wei Cui and Prof. Mingjuan Ji 
 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, B.S. in Polymer and Material and Engineering, Wuhan Institute of Technology. 
 
 # 💬 Invited Talks
 - *2021.11*, Academic Annual Conference, University of Chinese Academy of Sciences. Oral presentation: Modified two-dimensional carbon materials by virtual screening and quantitative structure-activity relationship study.
