@@ -100,5 +100,5 @@ Siyuan Liu, Ming Liu, **Mingming Guo**, Zicheng Wang, Xuefei Wang, Wei Cui, Zhiy
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=322f2f&w=300&t=tt&d=F1vL7ccfaglTpcZD3hYK02nlqbiv-naSldbcvDl06Ck&co=ffffff&cmo=53ff8b&cmn=e81934'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=4f4e4e&w=300&t=t&d=F1vL7ccfaglTpcZD3hYK02nlqbiv-naSldbcvDl06Ck&co=ffffff&cmn=ff0031&cmo=7786ff'></script>
 
