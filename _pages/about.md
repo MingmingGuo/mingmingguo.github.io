@@ -11,7 +11,7 @@ redirect_from:
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "%2F" %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -23,7 +23,7 @@ I'm currently a Ph.D. student majoring in Energy and Mechanical Engineering unde
 
 
 
-My research interest includes high-throughput computational screening approaches and machine learning to accelerate the materials discovery. And I will pursue the combination of theory and experiment to solve scientific problems. I have published more than 7 papers with total <a href='https://scholar.google.com/citations?user=zvkzYukAAAAJ'>google scholar citations <strong><span id='total_cit'>328</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=zvkzYukAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes high-throughput computational screening approaches and machine learning to accelerate the materials discovery. And I will pursue the combination of theory and experiment to solve scientific problems. I have published more than 7 papers with total <a href='https://scholar.google.com/citations?user=zvkzYukAAAAJ'>google scholar citations <strong><span id='total_cit'>328</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=zvkzYukAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FMingmingGuo%2mingmingguo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
