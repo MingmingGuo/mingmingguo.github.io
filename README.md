@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Mingming Guo AcadHomepage
+Mingming Guo‘s Personal Academic Website
 
 <a href="https://mingmingguo.github.io/">Mingming Guo</a>
 </h1>
