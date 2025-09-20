@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to Mingming Guo's Personal Academic Website.
+Welcome!
 
 I'm currently a Ph.D. student majoring in Energy and Mechanical Engineering under the advisor of <a href="https://scholar.google.com/citations?user=Dd9AE8sAAAAJ">Prof. Laurent Chaput</a> and <a href="https://scholar.google.com/citations?user=6TEjRUwAAAAJ">Fabien Pascale</a> at University of Lorraine,<a href="https://lemta.univ-lorraine.fr/">CNRS-LEMTA</a>.
 
